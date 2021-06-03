@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A relation of the business now in hand concerning Bedford Levell written in a letter to a vvorthy member of this Parliament, by a person uninterested, more than in his publick desires to preserve a work so beneficial for the kingdom, and satisfaction of all just interest relating to it.</title>
+         </titleStmt>
+         <extent>Approx. 27KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58437</idno><idno type="EEBO-CITATION">99825102</idno>
+  <idno type="VID">29475</idno>
+  <idno type="EEBO-PROQUEST">2248523484</idno>
+  
+            <idno type="STC">Wing R817A</idno>
+            <idno type="STC">ESTC R200913</idno>
+            <idno type="PROQUEST">99825102</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99825102e"/>
+            <note>(EEBO-TCP ; phase 2, no. A58437)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29475)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1998:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A relation of the business now in hand concerning Bedford Levell written in a letter to a vvorthy member of this Parliament, by a person uninterested, more than in his publick desires to preserve a work so beneficial for the kingdom, and satisfaction of all just interest relating to it.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>in the year, M.D.CLXI. [1661]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Bedford Level (England) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:29475:1"/>
+            <p>A RELATION Of the business now in hand concerning <hi>BEDFORD LEVELL,</hi> Written in a LETTER TO A VVorthy Member of this Parliament, by a person uninterested, more than in his pub<g ref="char:EOLhyphen"/>lick desires to preserve a Work so beneficial for the Kingdom, and satisfaction of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ust Inte<g ref="char:EOLhyphen"/>rest relating to it.</p>
+            <p>
+               <hi>London,</hi> Printed, in the Year, M.D.CLXI.</p>
+            <pb facs="tcp:29475:2"/>
+            <pb facs="tcp:29475:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:29475:3"/>
+            <pb n="3" facs="tcp:29475:3"/>
+            <head>A Relation of the business now in hand concerning <hi>Bedford Levell.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">O</seg>N <hi>VVednesday</hi> the sixth of <hi>May,</hi> 1661. two Bills were read in the House of Com<g ref="char:EOLhyphen"/>mons, concerning setling the Govern<g ref="char:EOLhyphen"/>ment of the <hi>Great Level,</hi> called <hi>Bedford Level.</hi> It is called <hi>Great,</hi> in respect it contains 365000. Acres of ground, and <hi>Bedford Level,</hi> because <hi>Francis</hi> Earl of <hi>Bedford</hi> (being a person of the most eminent quality, and interest amongst the first Undertakets) gave title to it: And it is called <hi>Levell,</hi> because the whole ground lies so flat, that the eye can<g ref="char:EOLhyphen"/>not judge where the ground rises or falls, being chiefly known by observation of the stop, or vent of water, the best judge of Levels.</p>
+            <p>Now to drain this <hi>Level</hi> from the source of waters which falls from the adjacent Hills, or contained in its own spungy nature, <hi>Francis</hi> Earl of <hi>Bedford</hi> was the first (though there were some attempters before) whose name, quality, and ability, both for understan<g ref="char:EOLhyphen"/>ding and purse, gave life, vigour, and reputation to the Work.</p>
+            <pb n="4" facs="tcp:29475:4"/>
+            <p>
+               <note place="margin">13. Jan. 6 Car. 1.</note>To him by a law made at <hi>Lynne,</hi> by persons of the chiefest rank; a power was given to act, and to take as<g ref="char:EOLhyphen"/>sistants, and for his charge and pains, he was to have 95000. Acres out of the 365000.</p>
+            <p>
+               <note place="margin">27 Feb. 7 Car. 1.</note>The year following, his Lordship took to his Patti<g ref="char:EOLhyphen"/>cipants 13. persons more, men of undeniable integrity and ability, and those 14. did interchangeably seale Deeds to each other, binding themselves mutually to advance and go through the work; and this Deed is called the <hi>fourteenih part Deed,</hi> and it is the <hi>foundation</hi> of the first <hi>Title</hi> and <hi>Bill.</hi>
+            </p>
+            <p>For the more effectual management and performance of the work, <hi>Charls the first of blessed memory,</hi> granted to them <hi>Letters Patents,</hi>
+               <note place="margin">13. Mar. 10 Ca<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 1.</note> and established them into a <hi>Cor<g ref="char:EOLhyphen"/>poration,</hi> consisting also of those 14. persons, save that <hi>Matrevers, Sandys</hi> junior, <hi>Crane</hi> and <hi>St. John</hi> came in upon Assignations or otherwise, from <hi>Heath, Russel, Be<g ref="char:EOLhyphen"/>vill,</hi> and <hi>Burwell;</hi> and of these fourteen, one <hi>Governor,</hi> two <hi>Bayliffs,</hi> and 110. <hi>Commoners</hi> were constituted. And in the same <hi>Patent,</hi> the <hi>King</hi> engageth himself to confirm the <hi>Corporation</hi> at the next ensuing <hi>Parliament.</hi> The <hi>Corporation</hi> being thus fixt, they proceeded so suc<g ref="char:EOLhyphen"/>cessfully, that within less than three years the work was compleated;<note place="margin">13 Jan. 12 Car. 1. 12 Oct. 13 Car. 1.</note> and by a Law made at <hi>Peterborough,</hi> the <hi>Levell</hi> was adjudged to be effectually drained, and by a Law made at St. <hi>Ives,</hi> in 26. <hi>Schedules</hi> annexed to that <hi>Law,</hi> the 95000. Acres was set out, and afterwards thus divided, <hi>viz.</hi> 12000. to the <hi>King</hi> for his consent, and 80000. Acres was divided into 20. <hi>Lots,</hi> so as every Lot contained 4000. Acres; so there remained only 3000. Acres undisposed of for contingencies.</p>
+            <p>Now as to the 20. Lots I sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll give you a Scheam,
+<pb n="5" facs="tcp:29475:4"/> by which you shall see how they also fell upon fourteen persons, the other six being but partners to the four<g ref="char:EOLhyphen"/>teen.</p>
+            <list>
+               <head>The first Participants men<g ref="char:EOLhyphen"/>tioned in the fourteenth part Deed. <hi>Dated 27.</hi> Feb. <hi>7</hi> Car. <hi>1.</hi>
+               </head>
+               <item>1. <hi>Francis</hi> Earl of <hi>Bed<g ref="char:EOLhyphen"/>ford.</hi>
+               </item>
+               <item>2. <hi>Oliver</hi> Earl of <hi>Bulling<g ref="char:EOLhyphen"/>brook.</hi>
+               </item>
+               <item>3. <hi>Edward</hi> Lord <hi>Gorges.</hi>
+               </item>
+               <item>4. Sir <hi>Robert Heath,</hi> Knight.</item>
+               <item>5. Sir <hi>Miles Sandys,</hi> Kt. and Baronet.</item>
+               <item>6. Sir <hi>VVilliam Russel,</hi> Knight.</item>
+               <item>7. Sir <hi>Robert Bevil,</hi> Kt. of the Bath.</item>
+               <item>8. Sir <hi>Thomas Tiringham,</hi> Knight.</item>
+               <item>9 Sir <hi>Philibert Vernat,</hi> Knight.</item>
+               <item>10. <hi>VVilliam Samms,</hi> Dr. of Law.</item>
+               <item>11. <hi>Anthony Hamond,</hi> Esquire.</item>
+               <item>12. <hi>Samuel Spalding,</hi> Gent.</item>
+               <item>13. <hi>Andrews Burwel,</hi> Gent</item>
+               <item>14. Sir <hi>Robert Lovet,</hi> Kt.</item>
+            </list>
+            <list>
+               <head>The Corporation sealed by Patent. <hi>13</hi> Mar. <hi>10.</hi> Car. <hi>1.</hi>
+               </head>
+               <item>I. <hi>Francis</hi> Earl of <hi>Bedford,</hi> Governor, deceased.</item>
+               <item>I. Sir <hi>Miles Sandys,</hi> Knight and Baronet, Deputy Governor, deceased.</item>
+               <item>Sir <hi>Thomas Tirin<g ref="char:EOLhyphen"/>gham.</hi> Bay<g ref="char:EOLhyphen"/>liffs decea<g ref="char:EOLhyphen"/>sed.</item>
+               <item>Sir <hi>Miles Sandys,</hi> junior. Bay<g ref="char:EOLhyphen"/>liffs decea<g ref="char:EOLhyphen"/>sed.</item>
+               <item>
+                  <hi>Oliver</hi> E. of <hi>Bulling<g ref="char:EOLhyphen"/>brook,</hi> deceased. X. Com<g ref="char:EOLhyphen"/>mo<g ref="char:EOLhyphen"/>ners.</item>
+               <item>
+                  <hi>Henry</hi> Lord<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>Ma<g ref="char:EOLhyphen"/>trevers,</hi> deceased. X. Com<g ref="char:EOLhyphen"/>mo<g ref="char:EOLhyphen"/>ners.</item>
+               <item>
+                  <hi>Edward</hi> L. <hi>Gorge</hi> deceased. X. Com<g ref="char:EOLhyphen"/>mo<g ref="char:EOLhyphen"/>ners.</item>
+               <item>Sir <hi>Francis Crane,</hi> deceased. X. Com<g ref="char:EOLhyphen"/>mo<g ref="char:EOLhyphen"/>ners.</item>
+               <item>Sir <hi>Robert Lovet,</hi> deceased. X. Com<g ref="char:EOLhyphen"/>mo<g ref="char:EOLhyphen"/>ners.</item>
+               <item>
+                  <hi>VVilliam Sams,</hi> de<g ref="char:EOLhyphen"/>ceased. X. Com<g ref="char:EOLhyphen"/>mo<g ref="char:EOLhyphen"/>ners.</item>
+               <item>
+                  <hi>Oliver St. John,</hi> dead in Law. X. Com<g ref="char:EOLhyphen"/>mo<g ref="char:EOLhyphen"/>ners.</item>
+               <item>
+                  <hi>Anth. Hamond</hi> sur<g ref="char:EOLhyphen"/>viving X. Com<g ref="char:EOLhyphen"/>mo<g ref="char:EOLhyphen"/>ners.</item>
+               <item>
+                  <hi>Sam. Spalding</hi> sur<g ref="char:EOLhyphen"/>viving X. Com<g ref="char:EOLhyphen"/>mo<g ref="char:EOLhyphen"/>ners.</item>
+            </list>
+            <list>
+               <pb n="6" facs="tcp:29475:5"/>
+               <head>The twenty <hi>Lots</hi> in the first Book of <hi>Lots</hi> allotted to four<g ref="char:EOLhyphen"/>teen persons, and by them subscribed.</head>
+               <item>
+                  <hi>Francis</hi> Earl of <hi>Bedford</hi> 3. 9. 11. 14. 20.</item>
+               <item>Sir <hi>Philibert Vernat.</hi> 1.</item>
+               <item>
+                  <note place="margin">This mark * shews the Lots wherein they were sharers with o<g ref="char:EOLhyphen"/>thers.</note>Sir <hi>Miles Sandys</hi> junior. 2.</item>
+               <item>Sir <hi>Miles Sandys,</hi> senior. 10. 13.</item>
+               <item>
+                  <hi>John Tiringham.</hi> 4. 6.</item>
+               <item>
+                  <hi>Robert Henley.</hi> 5. 6. 13. 17.</item>
+               <item>
+                  <hi>Edward</hi> Lord <hi>Gorges.</hi> 6. 15. 17.</item>
+               <item>Sir <hi>Robert Bevil.</hi> 7.</item>
+               <item>
+                  <hi>VVilliam Sams.</hi> 8.</item>
+               <item>
+                  <hi>Oliver</hi> Earl of <hi>Bullingbrook.</hi> 9.</item>
+               <item>
+                  <hi>Anthony Hamond.</hi> 12.</item>
+               <item>Sir <hi>Francis Crane.</hi> 16.</item>
+               <item>
+                  <hi>Henry</hi> Lord <hi>Matrevers.</hi> 18. 13.</item>
+               <item>
+                  <hi>John Latch.</hi> 19.</item>
+            </list>
+            <list>
+               <head>These six were <hi>Sharers</hi> only in the <hi>6. 12. 13.</hi> &amp; <hi>17.</hi> Lots.</head>
+               <item>
+                  <hi>Arthur Ingram.</hi> 6.</item>
+               <item>
+                  <hi>Arthur Amesley.</hi> 6.</item>
+               <item>
+                  <hi>John Marsham.</hi> 12.</item>
+               <item>
+                  <hi>Samuel Spalding.</hi> 13.</item>
+               <item>
+                  <hi>Oliver St. John.</hi> 17.</item>
+               <item>
+                  <hi>Robert Castle.</hi> 17.</item>
+            </list>
+            <pb n="7" facs="tcp:29475:5"/>
+            <p>And this is the <hi>Title</hi> of <hi>Francis</hi> Earl of <hi>Bedford,</hi> and the manner of proceeding, and setling it; but lest you should run into any error, it is fit you should know also, that for some reasons of State, not to be enquired in<g ref="char:EOLhyphen"/>to, His late Majesty by a Law made at <hi>Huntington,</hi>
+               <note place="margin">18. J<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 14 Car. 1.</note> (the yeat after the said Patent) became the Underta<g ref="char:EOLhyphen"/>ker, and he was to have not only the 95000. Acres, but 57000. Acres more, and the first <hi>Undertakers</hi> to be allowed 40000. Acres Tax-free, in recompence of their former charges, &amp; industry. But in respect his now <hi>Maje<g ref="char:EOLhyphen"/>sty</hi> is pleased to content himself with the 12000. acres formerly assigned to his late <hi>Majesty</hi> (according to St. <hi>Ives Law</hi>) and not at this present to interpose himself; I shall not intermedle with his late <hi>Majesties Underta<g ref="char:EOLhyphen"/>king,</hi> till his now <hi>Majesties</hi> pleasure be further known: But I conceive that ought to be desired, before an <hi>Act</hi> can pass to exclude his <hi>Majesty,</hi> there being many ma<g ref="char:EOLhyphen"/>ny material Arguments both for and against it. But admitting his <hi>Majesty</hi> doth wave that trouble, or the imploying of new Instruments under him, to prevent any dissatisfaction to the adjacent Counties, or preju<g ref="char:EOLhyphen"/>dice to the Participants of <hi>Francis</hi> Earl of <hi>Bedford:</hi> then this Narrative will run clear, that the said <hi>Francis</hi> and his Participants have the right title, but being hindered for some time by his late <hi>Majesty,</hi> and after by the commotions of the people, then by the succeeding wars, by sequestrations, and their inevitable absence, or death, they were disabled in purse, or person, or durst not attend its preservation. So that the King being <hi>Martyrd,</hi> and <hi>Francis</hi> Earl of <hi>Bedford</hi> formerly dead, and so many of his <hi>Participants</hi> (as conceive they had a right to neer a moity of the 83000. Acres) made un<g ref="char:EOLhyphen"/>capable,
+<pb n="8" facs="tcp:29475:6"/> or having not a conscience to act with them. I say <hi>William</hi> now Earl of <hi>Bedford</hi> (needing no other title but his own, as heir to his <hi>Father</hi>) did (by <hi>insnare<g ref="char:EOLhyphen"/>ment</hi> (judging charitably of <hi>those</hi> that had but few months before shred the <hi>Kingdom</hi> into a <hi>Commonwealth</hi>) suffer his name to be used, in a pretended <hi>Act of Par<g ref="char:EOLhyphen"/>liament,</hi> dated 29. of May, 1649. Wherein were con<g ref="char:EOLhyphen"/>stituted such subtile Laws, and such <hi>Commissioners</hi> and <hi>Judges</hi> of the <hi>Level,</hi> as had endeavoured to level all but themselves; for in the first place, they sold the <hi>Kings</hi> 12000. Acres, and then above 30000. Acres of the <hi>Participants</hi> of the said Earls <hi>Father,</hi> (being all loy<g ref="char:EOLhyphen"/>all <hi>subjects</hi>) and upon these two titles (as I said) two <hi>Bills</hi> were presented to the House to be enacted.</p>
+            <p>The title of the <hi>Participants</hi> claiming under <hi>Francis</hi> Earl of <hi>Bedford,</hi> was ushered in with a <hi>Petition,</hi> and read in the House before the other <hi>Bill,</hi> and therefore I shall first set down the <hi>Petition</hi> in the very words, and the substance of that <hi>Bill,</hi> before I proceed to the <hi>Bill</hi> of those who claim by the Act of 1649.</p>
+            <p>The Petition was from Sir <hi>William Playters</hi> Knight, (Trustee for the Earl of <hi>Arundel</hi>) Sir <hi>John Hewet</hi> Ba<g ref="char:EOLhyphen"/>ronet, Sir <hi>William Teringham</hi> Knight of the <hi>Bath,</hi> Col. <hi>Sam. Sandys,</hi> Col. <hi>Robert Philips,</hi> Col. <hi>William Dodson,</hi> and others claiming under the <hi>Original Adventurers</hi> of the great <hi>Level</hi> called <hi>Bedford Level.</hi>
+            </p>
+            <p>
+               <hi>Shewing,</hi>
+            </p>
+            <p>That <hi>whereas there hath been, and is a difference between the</hi> Adventurers <hi>under the right Honourable</hi> Francis <hi>Earl of</hi> Bedf<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rd, <hi>and the</hi> Intruders <hi>under the right Honourable</hi> William <hi>Earl of</hi> Bedford, <hi>the said</hi> Adventurers <hi>under</hi> Francis, <hi>claiming their rights by vertue of a fourteenth
+<pb n="9" facs="tcp:29475:6"/> part Deed, and several other Laws of</hi> Sewers, Letters Pa<g ref="char:EOLhyphen"/>tents, <hi>and orders of</hi> Councel, <hi>made in their behalf; and the said</hi> Intruders, <hi>claiming under</hi> William, <hi>by colour on<g ref="char:EOLhyphen"/>ly of a Law, made by the pretended</hi> Parliament <hi>in</hi> 1649. <hi>and by such unjust disseisin, and intrusions.</hi>
+            </p>
+            <p>They pray, <hi>That an Act herewith tendered, in behalf of the Petitioners may be read, &amp;c.</hi>
+            </p>
+            <p>The <hi>Bill</hi> attending the said <hi>Petition,</hi> doth state the said <hi>Earl Francis</hi> his title, according as is before ex<g ref="char:EOLhyphen"/>pressed; and the prayer of that <hi>Bill</hi> consists of four parts: but before I proceed to those, give me leave to use their language, with the reasons in calling the <hi>Par<g ref="char:EOLhyphen"/>ticipants</hi> under <hi>Earl Francis (Petitioners)</hi> and those un<g ref="char:EOLhyphen"/>der <hi>Earl William (Intruders.)</hi> For in calling them <hi>In<g ref="char:EOLhyphen"/>truders,</hi> the <hi>Petitioners</hi> say, that they do not in the least intend by that word to prejudice the honour of <hi>Earl William,</hi> or to lessen his interest in the Fennes, they mean so long as his Lordship, or any of his <hi>Participants,</hi> do make or derive their title from <hi>Francis,</hi> and his <hi>Par<g ref="char:EOLhyphen"/>ticipants:</hi> and not from <hi>Forfeitures</hi> upon that pretend<g ref="char:EOLhyphen"/>ed Act of 1649. And the Petitioners do think his Lordship so ingenuous, noble, and loyal as not to sup<g ref="char:EOLhyphen"/>port that title: nor do the <hi>Petitioners</hi> aim to take away from any man the least Acre that was <hi>bona fide</hi> past to them by the said Earl <hi>Francis,</hi> or his Participants, or such as justly claim under him or them before or since the twenty ninth of <hi>May,</hi> 1649. So that the Petiti<g ref="char:EOLhyphen"/>oners mean by <hi>Intruders,</hi> only those that purchased the <hi>Petitioners</hi> lands upon the title only of that <hi>pretended Act</hi> for non payment of <hi>Taxes;</hi> so <hi>illegally, unwarrant<g ref="char:EOLhyphen"/>ably,</hi> (and they say also) <hi>unnecessarily imposed.</hi> For whereas all Deeds, before 1649. went in these words,
+<pb n="10" facs="tcp:29475:7"/>
+               <hi>viz. Whereas Francis, &amp;c.</hi> did by a <hi>fourteenth part Deed,</hi> &amp;c. the <hi>Intruders</hi> have no other <hi>preamble,</hi> than the reci<g ref="char:EOLhyphen"/>tal of the said <hi>pretended Act,</hi> no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>title,</hi> nor <hi>Covenant</hi> to defend them, so as none are injured but themselvs, and seeing <hi>Caveat Emptor</hi> is a maxime in Law (the Petiti<g ref="char:EOLhyphen"/>oners say) why should not the <hi>Intruders</hi> make restituti<g ref="char:EOLhyphen"/>on <hi>cum omnibus emolumentis?</hi> I confesse the <hi>Intruders</hi> reply plausibly, <hi>Give us our Tax-money we are out of, and take your Lands:</hi> But the Petitioners adde to that old maxime, That the business of Tax, is not only an <hi>unjust imposition,</hi> but a subject for cheating: for, first, when the 80000. Acres were divided into 20. Lots, each Lot did consist of three sorts of grounds, Bad, In<g ref="char:EOLhyphen"/>different, and Good.</p>
+            <p>Now whilest each Lot stood entire in possession of those who first undertook them, it was equal; but be<g ref="char:EOLhyphen"/>ing subdivided, to several persons, it was unequal that that land should pay a Noble <hi>per</hi> Acre, which was not worth 9. <hi>d.</hi> and that not above a Noble, which was worth above a pound. Then as to the opportunity of cheating, it was obvious to every one, that if some few of them that ruled the waters did confederate, it were easie to let in water upon good grounds, to make them worse; and keep them upon bad, from being better, till the Taxes made them weary of them; and (the Petitioners say) this will be evidenced in case of <hi>one</hi> of the Intruders, who bought as many Fennes at 2. <hi>s,</hi> 6. <hi>d. per</hi> acre (the sum not amounting to above two or three hundred pound) as within a short time was sold for 3. 4. and 5. <hi>l. per</hi> acre; so as about 30000. <hi>l.</hi> was made of them. By this <hi>Act of Taxes,</hi> Col. <hi>Sam. Sandys</hi> is deceived of above 7000. Acres (which was conveyed
+<pb n="11" facs="tcp:29475:7"/> to Trustees for the Indemnifying him against great debts, wherein he stood engaged with Sir <hi>Miles San<g ref="char:EOLhyphen"/>dys</hi>) and the Earl of <hi>Arundel</hi> lost his shares (by em<g ref="char:EOLhyphen"/>ploying one to pay the Taxes, which suffered them to be forfeited, that there might be an opportunity to purchase them.) Something might be added in <hi>Crane</hi> and <hi>Hoblyns</hi> Case to the same effect, but I am loath to trouble you with more of these <hi>sad Truths,</hi> and only wish that the <hi>Intruders</hi> may not hold <hi>Machiavils maxim,</hi> That <hi>things which are unjustly gotten, must be unjustly maintained,</hi> hoping the Intruders will prove better principled.</p>
+            <p>So that I conceive Sir, there will be no great diffe<g ref="char:EOLhyphen"/>rence in the Title, presuming that the right Honorable <hi>William</hi> Earl of <hi>Bedford</hi> will own his Fathers Partici<g ref="char:EOLhyphen"/>pants, rather than those which came in by a Title so dangerous to be supported; as we may read in a Book of that eminent Lawyer Sir <hi>Orlando Bridgeman,</hi> in his proceedings against the Traytors at <hi>Newgate,</hi> who in several places intimates it as Treason to act by Acts made by an usurped power, which perhaps is pardon<g ref="char:EOLhyphen"/>ed, if not prosecuted.</p>
+            <p>Now as to the Prayers of the Bill; the Petitioners in their first <hi>Prayer,</hi> fix upon the very number of per<g ref="char:EOLhyphen"/>sons, <hi>viz. fourteen</hi> to be of this Corporation in this Bill, according to the original Institution of it, both by Deed, Patent, and Allotments. And these fourteen to continue for one year, (being persons of the greatest, and rightest interest under <hi>Francis</hi> Earl of <hi>Bedford,</hi> and less guilty of intrusion:) and then these to make election of others according as the said Patent di<g ref="char:EOLhyphen"/>rects.</p>
+            <pb n="12" facs="tcp:29475:8"/>
+            <p>Now <hi>the old Governors, Bayliffs and Commoners ha<g ref="char:EOLhyphen"/>ving been as they are named in the former Scheame,</hi>
+            </p>
+            <list>
+               <head>These are the new Governors, as they are desired in this Petitioners <hi>Bill.</hi>
+               </head>
+               <item ana="#role_label">The Governor.</item>
+               <item>I. <hi>William</hi> Earl of <hi>Bedford,</hi> as claiming under Earl <hi>Francis.</hi>
+               </item>
+               <item ana="#role_label">The Deputy Governor.</item>
+               <item>I. <hi>Samuel Sandys,</hi> Esq; claiming under Sir <hi>Miles Sandys.</hi>
+               </item>
+               <item ana="#role_label">The two Bayliffs.</item>
+               <item>II.
+<list>
+                     <item>Sir <hi>William Tirringham</hi> Knight of the Bath, claim<g ref="char:EOLhyphen"/>ing under Sir <hi>Thomas</hi> and <hi>John Tirringham.</hi>
+                     </item>
+                     <item>Sir <hi>John Hewet</hi> Baronet, claiming under Sir <hi>Robert Bevil.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item ana="#role_label">The ten Commoners.</item>
+               <item>X.
+<list>
+                     <item>
+                        <hi>Anthony St. John</hi> son to the said E. of <hi>Bullingbrook.</hi>
+                     </item>
+                     <item>Sir <hi>William Playters</hi> Kt. and Baronet, Trustee for the Lord <hi>Matrevers</hi> late Earl of <hi>Arundel.</hi>
+                     </item>
+                     <item>
+                        <hi>Arthur</hi> E. of <hi>Anglesey,</hi> claiming under the L. <hi>Gorge.</hi>
+                     </item>
+                     <item>
+                        <hi>Hoblyn,</hi> Esq; claiming under Sir <hi>Richard Crane</hi> by Coheirship.</item>
+                     <item>Col. <hi>Iohn Russel</hi> son to <hi>Francis</hi> late E. of <hi>Bedford.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn</hi> L. <hi>Culpepper,</hi> claiming under <hi>Francis</hi> Earl of <hi>Bedford.</hi>
+                     </item>
+                     <item>
+                        <hi>Rob. Phillips</hi> Esq; claiming under the heirs of <hi>Gorge.</hi>
+                     </item>
+                     <item>Col. <hi>VVill. Dodson</hi> claiming under Sir <hi>Miles Sandys.</hi>
+                     </item>
+                     <item>(<hi>Oliver St. Iohn</hi> being disabled from acting,)</item>
+                     <item>
+                        <hi>Anth. Hamond</hi> Esq; The two only legal survivors of the former <hi>Corporation.</hi>
+                     </item>
+                     <item>
+                        <note place="margin">In all 14.</note>
+                        <hi>Sam. Spalding</hi> Gent. The two only legal survivors of the former <hi>Corporation.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <pb n="13" facs="tcp:29475:8"/>
+            <p>But if the number be thought insufficient to carry on the work, the Petitioners will assent to an addition, so as they be not <hi>Intruders,</hi> or if the persons mentioned in the Petitioners Bill be not better and more rightfully qualified, than any others that the Earl <hi>William</hi> shall name, it will be submitted to the Parliament to judge of each others exceptions.</p>
+            <p>The second <hi>Prayer</hi> of the Petitioners Bill is, that 12000. acres may be restored to the King, which it seems the Intruders have done; and the Petitioners do protest that it was an Act of <hi>Iustice,</hi> and hope they will proceed in the same <hi>Iustice,</hi> in restoring theirs without further trouble, or noyse; and if they would also give his Majesty the 20000. <hi>l.</hi> for which they sold his land, and the mean profits of the Petitioners lands to the Petitioners, their Justice therein would be the more renowned.</p>
+            <p>The third <hi>Prayer</hi> is to avoid all Titles made by the <hi>Intruders</hi> upon the pretended <hi>Act.</hi> of 1649. and that quiet <hi>possession</hi> may be given to the Petitioners, especi<g ref="char:EOLhyphen"/>ally since the Petitioners were so kind, as not to op<g ref="char:EOLhyphen"/>pose an <hi>Act</hi> in the last Parliament, whereby the <hi>Intru<g ref="char:EOLhyphen"/>ders</hi> (to their great gains) were not to be disturbed in their possession till the 29. of <hi>May</hi> 1661. a <hi>day</hi> when not only his <hi>Majesty</hi> made his <hi>happy entrance</hi> into his Dominions, <hi>viz.</hi> 29. <hi>May</hi> 1660. but every loyal sub<g ref="char:EOLhyphen"/>ject may expect like <hi>free entrance</hi> into theirs; and the rather, because the very self same day that the <hi>Intru<g ref="char:EOLhyphen"/>ders</hi> obtained their <hi>Act, viz.</hi> May 1649. the very <hi>same day</hi> eleven years after, the last Act of the Intruders for continuing possession doth expire, <hi>viz.</hi> 29. May 1661. which was obtained by their own desires; so that they
+<pb n="14" facs="tcp:29475:9"/> have the less reason to be any longer injurious upon a<g ref="char:EOLhyphen"/>ny pretence whatsoever. But the Intruders say further, that the <hi>Petitioners</hi> had no possession by S. <hi>Ives</hi> Law; so that they did not dispossesse the <hi>Petitioners</hi> of that, which they were not possest of. To which the <hi>Petiti<g ref="char:EOLhyphen"/>oners</hi> answer,<note place="margin">17 Car. 1.</note> that by a Law for the allotments in <hi>Ire<g ref="char:EOLhyphen"/>land</hi> the very words of the Statute are, That the <hi>Allot<g ref="char:EOLhyphen"/>ments</hi> shall be judged as in actual possession of those to whom they were allotted, <hi>for a Title is as safe in gross, as in retail:</hi> And the <hi>Petitioners</hi> affirm, that by vertue of the participancy, under <hi>Francis</hi> Earl of <hi>Bedford,</hi> they did buy, fell, chop, change, sell and let their Lots, or part of them, without any dispute, til they were thrown out by the Intruders by colour of the pretended Act of 1649.</p>
+            <p>The last part of the <hi>Prayer</hi> of the Petitioners Bill is to take care of the <hi>Country,</hi> wherein the <hi>Petitioners</hi> say, they are not ashamed to expose their accounts to the censure of such as the Parliament shall think fit to o<g ref="char:EOLhyphen"/>verlook their actions; and that there may be redress to such as justly complain, they do therein take care for the Countries interest.</p>
+            <p>And now I have done with the <hi>title</hi> and <hi>desires</hi> of the Petitioners Bill, I shall proceed to the Intruders Bill, but upon perusal of it, I find it is but the very same with the Bill of 29. May 1649. which is to be bought at Mr. <hi>Husbands</hi> a Stationer in <hi>Fleetstreet,</hi> wherein you will find very little matter added, but several material sentences omitted in that Act, <hi>viz.</hi> In pag. 570. it is said, <hi>That the said</hi> William <hi>Earl of</hi> Bedford, <hi>&amp;c. shall hold the same against the King, his Heirs and Successors, or any claiming by, from, or under him.</hi>
+            </p>
+            <pb n="15" facs="tcp:29475:9"/>
+            <p>And in pag. 574. <hi>They cheerfully take away all ad<g ref="char:EOLhyphen"/>vantages which his Majesty, his heirs or Successors may challenge by reason of any former Laws made in behalf of him and his heirs,</hi> viz. 19 <hi>Jac.</hi> and 14 <hi>Car.</hi> 1. too long here to transcribe. So that if they inserted these Clau<g ref="char:EOLhyphen"/>ses against his <hi>Majesty,</hi> &amp;c. how could his loyal <hi>Sub<g ref="char:EOLhyphen"/>jects,</hi> the Petitioners, whom they had also discarded, or any other concerned, expect any right, till the Act it self of 1649. and those <hi>Intruders</hi> be also laid aside.</p>
+            <p>In short, the <hi>Petitioners Bill</hi> is to revive the old <hi>Go<g ref="char:EOLhyphen"/>vernment,</hi> to purge it of all <hi>Intruders,</hi> to restore the <hi>King</hi> his rights, and to do Justice to the Countries: But the <hi>Intr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ders</hi> Bill is full of Laws, before the Go<g ref="char:EOLhyphen"/>vernment be agreed on, or such Justice performed as is requisite.</p>
+            <p>I thought to have concluded, but perusing a printed Paper of the Intruders, called <hi>A Narrative of their drai<g ref="char:EOLhyphen"/>ning of</hi> Bedford <hi>Levell;</hi> about which, they say, that they have expended above 250000. <hi>l.</hi> and in another Nar<g ref="char:EOLhyphen"/>rative printed two days since, 50000. <hi>l.</hi> so that it seems they agree not in their account. I must tell you what the Petitioners say, That in the first Paper the <hi>Intruders</hi> admit the yearly charge to be but 8000. <hi>l. per annum,</hi> which from 1649. to 1660. being eleven years, is but 88000. <hi>l.</hi> So there is a gross mistake of 162000 <hi>l.</hi> besides the other sum of 50000 <hi>l.</hi> So that if the Petitioners should admit of 88000. <hi>l.</hi> raised in Taxes, by 8000. <hi>l. per annum,</hi> the <hi>Intruders</hi> are indebted to such as may justly call them to an ac<g ref="char:EOLhyphen"/>count, for 20000. <hi>l.</hi> received by sale of the <hi>Kings</hi> lands, and more than double so much by the <hi>sale</hi> of the <hi>Peti<g ref="char:EOLhyphen"/>tioners lands,</hi> beside the <hi>imperfections</hi> of their <hi>accompts</hi>
+               <pb n="16" facs="tcp:29475:10"/> and vast needless charges, for the support of the said Level; and the <hi>Intruders</hi> have no reason to complain of the Petitioners mercy, if they be put out, without gi<g ref="char:EOLhyphen"/>ving account of the mean profits, especially the Peti<g ref="char:EOLhyphen"/>tioners (or those from whom they claim) having ex<g ref="char:EOLhyphen"/>pended at least 200000. <hi>l.</hi> (above twenty years since,) which the Petitioners conceive is part of the 250000. <hi>l.</hi> before pretended to be disbursed; not have the Peti<g ref="char:EOLhyphen"/>tioners received any mean profits, or advantages for the same, wherein the Intruders have more than trebly reimbursed themselves: So that if the Petitioners do not call the Intruders to an account, it is a favour ad<g ref="char:EOLhyphen"/>mitted towards them for quietness sake, which is wish<g ref="char:EOLhyphen"/>ed by</p>
+            <closer>
+               <salute>(SIR,)</salute>
+               <signed>Your Friend and Servant.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:29475:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
